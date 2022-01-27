@@ -1,3 +1,3 @@
 # certificates
 
-A certificate reunion I've gained on for the past year or so
+A certificate reunion I've gained for the past year or so
